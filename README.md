@@ -48,7 +48,7 @@ git clone [https://github.com/YourUsername/Sarangi-Music-Player.git](https://git
 python Sarangi.py
 
 ## Executable
-An executable file is available for easy use without requiring Python installation.[Download Sarangi Music Player]( https://github.com/Rishi01Prince/Sarangi/blob/main/Sarangi.exe)
+An executable file is available for easy use without requiring Python installation.[Download Sarangi Music Player](https://github.com/Rishi01Prince/Sarangi/raw/main/Sarangi.exe)
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
