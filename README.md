@@ -4,6 +4,9 @@ Sarangi is a simple and elegant music player created by Rishi Raj using Python a
 
 ![Sarangi Music Player](Rishi_Music_Images/Center_Photo2.jpg)
 
+## Download in one click and try now :-
+[Download Sarangi Music Player](https://github.com/Rishi01Prince/Sarangi/raw/main/Sarangi.exe)
+
 ## Features
 
 - **Intuitive Interface**: The user-friendly interface makes it easy to navigate and enjoy your music collection.
