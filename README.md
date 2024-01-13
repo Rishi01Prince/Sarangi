@@ -42,7 +42,7 @@ Sarangi is a simple and elegant music player created by Rishi Raj using Python a
 ### Steps
 
 1. Clone the repository or download the source code.
-git clone https://github.com/YourUsername/Sarangi-Music-Player.git
+git clone [https://github.com/YourUsername/Sarangi-Music-Player.git](https://github.com/Rishi01Prince/Sarangi.git)
 
 2. Run the Sarangi Music Player:
 python Sarangi.py
